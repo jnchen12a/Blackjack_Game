@@ -2,7 +2,7 @@
 A Blackjack game coded for a class project. Class: COP3502C
 
 ## Notes
-File "blackjack.py" is entirely original, except for the fact that the output had to match instructor's completely.
+File "blackjack.py" is entirely original, except for the fact that its output had to match instructor's completely.
 File "p1_random.py" was given from instructor.
 
 ## Description
